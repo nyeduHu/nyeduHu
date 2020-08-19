@@ -22,12 +22,12 @@ nyedu.on('ask-about-these-stuff', () => {
     '📫 How to reach me: On my website, there's a link to my gmail account',
     '😄 Pronouns: He/him',
     '⚡ Fun fact: I love woman'
-  ]
+  ];
   
   if(available.includes(your.question.toLowerCase())) return nyedu.AnswerYourQuestion();
   
 });
 
-nyedu.login("real-life")
+nyedu.login("real-life");
 ```
 
