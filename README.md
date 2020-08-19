@@ -3,6 +3,10 @@
 <!--
 **nyeduHu/nyeduHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+```js
+const nyedu = require('nyedu.js');
+```
+
 
 - 🔭 I’m currently working on Farm it!
 - 🌱 I’m currently learning everything of the world
