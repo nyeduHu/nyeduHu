@@ -21,7 +21,7 @@ nyedu.on('ask-about-these-stuff', () => {
     '💬 Ask me about ..idk?',
     '📫 How to reach me: On my website, there's a link to my gmail account',
     '😄 Pronouns: He/him',
-    '⚡ Fun fact: I love women'
+    '⚡ Fun fact: I love woman'
   ]
   
   if(available.includes(your.question.toLowerCase())) return nyedu.AnswerYourQuestion();
