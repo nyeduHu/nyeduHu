@@ -16,7 +16,7 @@ nyedu.on('wake-up', () => {
 
 nyedu.on('ask-about-these-stuff', () => {
   let available = [
-    '🔭 I’m currently working on Farm it!',
+    '🔭 I’m currently working on EpiteszSuli Discord bot!',
     '🌱 I’m currently learning everything of the world',
     '💬 Ask me about ..idk?',
     '📫 How to reach me: On my website, there's a link to my gmail account',
