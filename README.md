@@ -17,9 +17,9 @@ nyedu.on('wake-up', () => {
 nyedu.on('ask-about-these-stuff', () => {
   let available = [
     '🔭 I’m currently working on ------!',
-    '🌱 I’m currently learning everything in the world',
-    '💬 Ask me about ..idk?',
-    '📫 How to reach me: On my website, there's a link to my gmail account',
+    '🌱 I’m currently learning 'bout life',
+    '💬 Ask me about anything?',
+    '📫 How to reach me: by email. nyeso.edu@gmail.com',
     '😄 Pronouns: He/him',
     '⚡ Fun fact: I love woman'
   ];
