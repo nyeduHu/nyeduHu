@@ -8,4 +8,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nyeduHu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Bendimester23's github stats](https://github-readme-stats.vercel.app/api?username=nyeduHu&show_icons=true&theme=tokyonight)
+![nyeduHu's github stats](https://github-readme-stats.vercel.app/api?username=nyeduHu&show_icons=true&theme=tokyonight)
