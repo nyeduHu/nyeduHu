@@ -9,5 +9,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nyeduHu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![nyeduHu's github stats](https://github-readme-stats.vercel.app/api?username=nyeduHu&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeduHu&layout=compact&theme=dark)
 
