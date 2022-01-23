@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a social media platform
 - 🌱 I’m currently learning everything about life
 - 💬 Ask me about anything you'd like.
-- 📫 How to reach me: nyedu#2540 on Discord or by email `info@nyedu.dev`
+- 📫 How to reach me: nyedu#8609 on Discord
 - ⚡ Fun fact: i play my guitar in my free time.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nyeduHu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
