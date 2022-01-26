@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a social media platform
-- 🌱 I’m currently learning everything about life
+- 🔭 I’m currently working on a building a social life lmao
+- 🌱 I’m currently learning how to not waste that much money
 - 💬 Ask me about anything you'd like.
 - 📫 How to reach me: nyedu#8609 on Discord
 - ⚡ Fun fact: i play my guitar in my free time.
